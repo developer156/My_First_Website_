@@ -1,0 +1,19 @@
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 30%;
+  border-color: red;
+}
+h1 {
+  color: #d63447;
+  font-style: italic;
+}
+h2 {
+  color: #d63447;
+  font-style: italic;
+  font-size: 30px;
+}
+body {
+  background-color: #ffb2a7;
+}
